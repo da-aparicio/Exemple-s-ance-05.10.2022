@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="fr" dir="ltr">
+    <head>
+        
+<meta charset="utf-8">
+<title>404 Dario Domenech ISH</title>
+<link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+<div class="container">
+    <h2>Oupsi!!! Il y'a un problème avec ta page </h2>
+    <h1>404</h1>
+    <p>Nous ne parvenons pas à trouver la page que tu recherches.</p>
+    <div class="btns">
+        <a href="https://www.unil.ch">retour page d'accueil</a>
+        <a href="https://www.unil.ch/ci/fr/home/menuinst/help-desk.html">reporter un problème</a>
+</div>
+<head>
+    <body>
+
+
+    <style>
+        body { margin:0;
+padding: 0;
+font-family:"monserrat",sans-serif;
+min-height: 100vh;
+background-image: linear-gradient(125deg,#771b1b,#cac180d6);}
+
+.container {
+    width: 100%;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    text-align: center;
+    color: #343434
+}
+
+.container h1{
+font-size: 160px;
+margin: 0;
+color: rgb(50, 16, 16);
+font-weight: 900;
+letter-spacing: 50px;
+background: url(https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Michelangelo_-_Creation_of_Adam_%28cropped%29.jpg/2880px-Michelangelo_-_Creation_of_Adam_%28cropped%29.jpg) center
+no-repeat;
+
+}
+
+.container a{
+    text-decoration: none;
+    background: #89483ec1;
+    color: rgb(73, 53, 53);
+    padding: 12px 24px;
+    display: inline-block;
+    border-radius: 25px;
+    font-size: 14px;
+    text-transform: uppercase;
+    transition: 0.4s;
+}
+
+.container a:hover{
+    background: #e55039;
+
+}
+
+    </style>
+</head>
+
+    </body>
+    </html>
